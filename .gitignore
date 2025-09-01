@@ -1,0 +1,6 @@
+# Ignore all executables
+*.out
+*.exe
+
+# Optional: also ignore object files
+*.o
