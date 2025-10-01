@@ -1,0 +1,9 @@
+(xor manipulation--- tricks (real use))
+
+Swapping values
+
+Bit manipulation tricks
+
+Cryptography (XOR cipher)
+
+Finding a unique number in an array
